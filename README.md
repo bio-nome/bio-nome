@@ -8,10 +8,12 @@
 - 💞️ Looking to collaborate on Genomics and Bioinformatics.
 - 📫 Reach us at info@nome.bio.
 
-  ![](https://komarev.com/ghpvc/?username=bio-nome&style=flat-square&color=brightgreen)
+  ![](https://komarev.com/ghpvc/?username=bio-nome&style=flat-square&color=brightgreen) ![](https://img.shields.io/github/followers/bio-nome?label=Followers&style=flat-square&color=brightgreen)
 
 ## Stats
 
 [![bio-nome's github stats](https://github-readme-stats.vercel.app/api?username=bio-nome&show_icons=true&theme=dark&count_private=true)](https://github-readme-stats.vercel.app/api?username=bio-nome&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bio-nome&show_icons=true&theme=dark&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs?username=bio-nome&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bio-nome&repo=bio-nome&show_icons=true&theme=dark&count_private=true)](https://github.com/bio-nome/bio-nome)
