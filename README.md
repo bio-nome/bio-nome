@@ -8,6 +8,10 @@
 - 💞️ Looking to collaborate on Genomics and Bioinformatics.
 - 📫 Reach us at info@nome.bio.
 
+  ![](https://komarev.com/ghpvc/?username=bio-nome&style=flat-square&color=brightgreen)
+
 ## Stats
 
-![bio-nome's github stats](https://github-readme-stats.vercel.app/api?username=bio-nome&show_icons=true&count_private=true)
+[![bio-nome's github stats](https://github-readme-stats.vercel.app/api?username=bio-nome&show_icons=true&theme=dark&count_private=true)](https://github.com/bio-nome/github-readme-stats)
+
+
