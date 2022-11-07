@@ -1,6 +1,6 @@
 ## About
 
-![nomedotbio_github_dpjpg](https://user-images.githubusercontent.com/117607183/200263674-21f66809-9f39-4014-9b10-797fcb3e59e3.jpg)
+![nomedotbio_github_dpjpg](https://user-images.githubusercontent.com/117607183/200386640-f32d2736-9426-40bd-8fbf-c72a5889f75f.jpg)
 
 - 👋 Hi, we are @bio-nome!
 - 👀 Interested in scalable genomic data-pipeline.
