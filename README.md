@@ -12,6 +12,6 @@
 
 ## Stats
 
-[![bio-nome's github stats](https://github-readme-stats.vercel.app/api?username=bio-nome&show_icons=true&theme=dark&count_private=true)](https://github.com/bio-nome/github-readme-stats)
+[![bio-nome's github stats](https://github-readme-stats.vercel.app/api?username=bio-nome&show_icons=true&theme=dark&count_private=true)](https://github-readme-stats.vercel.app/api?username=bio-nome&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 
