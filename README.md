@@ -1,8 +1,6 @@
 ## About [[BIO NOME](https://github.com/bio-nome/)]
 
-[[nomedotbio_github_dpjpg](https://bio-nome.github.io/)]
-
-- 👋 Hi, we are [@bio-nome](https://komarev.com/ghpvc/?username=bio-nome&style=flat-square&color=brightgreen)!
+- 👋 Hi, we are [[@bio-nome](https://bio-nome.github.io/)]!
 - 👀 Interested in scalable genomic data-pipeline.
 - 🌱 On a mission to develop pyspark based gpu optimised genomic workflows.
 - 💞️ Looking to collaborate on Genomics and Bioinformatics.
