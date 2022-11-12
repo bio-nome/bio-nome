@@ -1,10 +1,10 @@
 ## About [[BIO NOME](https://github.com/bio-nome/)]
 
-- 👋 Hi, This is [[@bio-nome](https://bio-nome.github.io/)]!
+- 👋 Hi, this is [[@bio-nome](https://bio-nome.github.io/)]!
 - 👀 Interested in scalable genomic data-pipeline.
 - 🌱 On a mission to develop pyspark based gpu optimised genomic workflows.
 - 💞️ Looking to collaborate on Genomics and Bioinformatics.
-- 📫 Reach at info@nome.bio.
+- 📫 Contact at [[@bio-nome](mailto:info@nome.bio)].
 
   ![](https://komarev.com/ghpvc/?username=bio-nome&style=flat-square&color=brightgreen) ![](https://img.shields.io/github/followers/bio-nome?label=Followers&style=flat-square&color=brightgreen)
 
