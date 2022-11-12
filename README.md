@@ -4,7 +4,7 @@
 - 👀 Interested in scalable genomic data-pipeline.
 - 🌱 On a mission to develop pyspark based gpu optimised genomic workflows.
 - 💞️ Looking to collaborate on Genomics and Bioinformatics.
-- 📫 Contact at [[@bio-nome](mailto:info@nome.bio)].
+- 📫 Contact at [[info@nome.bio](mailto:info@nome.bio)].
 
   ![](https://komarev.com/ghpvc/?username=bio-nome&style=flat-square&color=brightgreen) ![](https://img.shields.io/github/followers/bio-nome?label=Followers&style=flat-square&color=brightgreen)
 
